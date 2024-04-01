@@ -1,7 +1,7 @@
 # Perpustakaan Rahmat Berau
 
 ## Deskripsi
-Download seluruh file
+Download file zip pada menu CODE berwarna hijau
 
 ## database
 1. file SQL ada di folder App/Database/rahmat-perpustakaan.sql
