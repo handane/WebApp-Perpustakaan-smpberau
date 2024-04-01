@@ -6,7 +6,7 @@
 3. chrome browser
 
 ## Deskripsi
-1. Download file zip pada menu CODE berwarna hijau
+1. Pada github, download file zip pada menu CODE berwarna hijau
 2. simpan file zip di folder xampp
 3. beri nama foldernya dengan nama "perpustakaan"
 4. ekstrak zip di dalam folder perpustakaan
